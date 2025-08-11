@@ -3,4 +3,5 @@
 # bevy_glsl_procedural_sky_shader
 glsl procedural sky shader for Bevy 0.16
 
-
+## License
+[APACHE](./LICENSE-APACHE) | [MIT](./LICENSE-MIT)
